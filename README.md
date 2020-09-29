@@ -16,3 +16,7 @@ https://www.anaconda.com/download/
 ### Binder(hosted Jupyter notebooks) Beta
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ValRCS/RTU_Python_720_Fall_2020/master)
 * Binder allows you to run Jupyter notebooks in the cloud
+
+### Course Syllabus
+* Core Syntax
+* Flow Control
