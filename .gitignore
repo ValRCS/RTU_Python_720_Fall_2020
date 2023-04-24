@@ -30,3 +30,6 @@ nlp/.ipynb_checkpoints/NLTK - Collocations and Bigrams-checkpoint.ipynb
 nlp/.ipynb_checkpoints/NLTK Introduction-checkpoint.ipynb
 nlp/.ipynb_checkpoints/NLTK - Using NLTK Corpora-checkpoint.ipynb
 nlp/.ipynb_checkpoints/NLTK - Statistics-checkpoint.ipynb
+core/myAprilPackage/__pycache__/my_numeric_mod.cpython-311.pyc
+core/myAprilPackage/__pycache__/my_string_mod.cpython-311.pyc
+core/__pycache__/myAprilMod.cpython-311.pyc
