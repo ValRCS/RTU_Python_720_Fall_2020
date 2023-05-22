@@ -34,3 +34,4 @@ core/myAprilPackage/__pycache__/my_numeric_mod.cpython-311.pyc
 core/myAprilPackage/__pycache__/my_string_mod.cpython-311.pyc
 core/__pycache__/myAprilMod.cpython-311.pyc
 venv/
+nlp/nation.txt
