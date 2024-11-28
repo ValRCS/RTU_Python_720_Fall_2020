@@ -1,12 +1,12 @@
-	Name	Food	Speed	Children
-count	3	3	3.0	3.0
-unique	3	3		
-top	Liga	soup		
-freq	1	1		
-mean			118.03333333333335	4.333333333333333
-std			33.26158945891391	2.309401076758503
-min			92.7	3.0
-25%			99.2	3.0
-50%			105.7	3.0
-75%			130.7	5.0
-max			155.7	7.0
+	Name	Food	Speed	Children	hobby	Age
+count	4	4	4.0	4.0	1	1.0
+unique	4	4			1	
+top	Valdis	potatoes			chess	
+freq	1	1			1	
+mean			112.45	3.75		55.0
+std			29.36409372005204	2.217355782608345		
+min			92.7	2.0		55.0
+25%			94.95	2.75		55.0
+50%			100.7	3.0		55.0
+75%			118.2	4.0		55.0
+max			155.7	7.0		55.0
